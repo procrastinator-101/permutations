@@ -1,0 +1,11 @@
+#python virtual environment
+.venv
+
+**/__pycache__/
+*.pyc
+*.pkl
+dist/
+build/
+
+.pytest_cache
+*.egg-info
